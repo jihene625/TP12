@@ -5,7 +5,7 @@ package bowling;
  * @author rbastide
  */
 public interface IPartieMultiJoueurs {
-	
+	  
 	/**
 	 * Démarre une nouvelle partie pour un groupe de joueurs
 	 * @param nomsDesJoueurs un tableau des noms de joueurs (il faut au moins un joueur)
