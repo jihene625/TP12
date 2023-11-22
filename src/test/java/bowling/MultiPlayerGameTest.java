@@ -4,11 +4,12 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
 
 public class MultiPlayerGameTest {
 
 	private PartieMultiJoueurs partie;
-	private String[] lesJoueurs;
+	private String[] nomsDesJoueurs;
 
 	@BeforeEach
 	public void setUp(){
